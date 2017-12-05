@@ -1,4 +1,4 @@
-# 第一节：webpack最基础配置
+# 第一节：webpack最简配置
 
 ## 源码文件：`main.js`
 
