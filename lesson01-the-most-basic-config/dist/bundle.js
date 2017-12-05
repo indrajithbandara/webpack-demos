@@ -67,10 +67,10 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-function test () {
+function say () {
   return "Hello World!";
 }
-
+module.exports = say
 
 /***/ })
 /******/ ]);
